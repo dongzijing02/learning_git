@@ -1,0 +1,3 @@
+git branch ---- checks current branch and all branches
+git checkout -b branchname ---- create a new branch
+git checkout - ---- switch to previous branch 
