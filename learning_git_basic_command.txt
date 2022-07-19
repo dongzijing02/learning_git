@@ -3,5 +3,6 @@ git status - check status
 git add
 git commit 
 ctrl + s
+git log
 git push
 
