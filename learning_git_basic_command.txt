@@ -1,0 +1,7 @@
+git clone url  -  clone online repo onto my local machine
+git status - check status
+git add
+git commit 
+ctrl + s
+git push
+
