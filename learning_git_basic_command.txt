@@ -1,3 +1,5 @@
+cd ---- enter the file
+cd.. ----exit the file
 git clone url  ----  clone online repo onto my local machine
 git status ---- check status
 git add ---- add new operations to online datebase
@@ -7,3 +9,6 @@ git log ---- check logs
 git push ---- finish the work
 rm ---- delete
 git show
+git commit -m “message” ----提交暂存区文件至本地 message为备注信息
+echo .... >(>>)   ---- add things to a file or txt/make a new file and add things 
+echo 文件 ---- 在默认编辑器中打开文件
