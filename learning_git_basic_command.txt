@@ -1,7 +1,7 @@
-git clone url  -  clone online repo onto my local machine
-git status - check status
-git add
-git commit 
-ctrl + s
-git log
-git push
+git clone url  ----  clone online repo onto my local machine
+git status ---- check status
+git add ---- add new things to online datebase
+git commit ----commit the add operation
+ctrl + s ---- keep the chang in storage
+git log ---- check logs
+git push ---- finish the work
