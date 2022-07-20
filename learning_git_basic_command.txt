@@ -4,4 +4,4 @@ git add ---- add new things online
 git commit  ---- ensure the add
 ctrl + s ---- keep the code 
 git log ---- check commit records
-git push ---- over
+git push ---- over 
