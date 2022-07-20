@@ -6,3 +6,4 @@ ctrl + s ---- keep the chang in storage
 git log ---- check logs
 git push ---- finish the work
 rm ---- delete
+git show
