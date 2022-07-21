@@ -4,4 +4,4 @@ git status ---- git lists all the conflicted flies
 solve all the conflicts manually and save them 
 git add . or files 
 git rebade --continue 
-git push -f
+git push -f     
